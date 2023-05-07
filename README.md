@@ -12,7 +12,7 @@ Make sure you have Node.js installed. You can download it from the official webs
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/abuhurera8320/property_search_tool.git
 2. Install NPM packages
    ```sh
    npm install
