@@ -1,0 +1,48 @@
+.header {
+  height: 100px;
+  background: var(--light-grey);
+}
+.container {
+  margin: 50px 200px;
+}
+.filters-container {
+  margin-top: 20px;
+  flex-basis: 15%;
+  padding-right: 30px;
+}
+.filters {
+  margin-top: 20px;
+  padding: 10px;
+  background: var(--steel-grey);
+}
+.filters > div {
+  cursor: pointer;
+  padding-bottom: 5px;
+}
+.selected-filter {
+  font-weight: 800;
+}
+.table-container {
+  flex-basis: 85%;
+  margin-top: 20px;
+}
+
+h6{
+  padding: 15px 0px;
+}
+.search-input {
+  flex-basis: 80%;
+}
+.button {
+  margin-left: 30px;
+  background-color: #f0f01a;
+  color: #333;
+  padding: 5px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.ant-table-thead th {
+  border-left: 4px solid white;
+}
